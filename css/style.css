@@ -595,10 +595,11 @@ body:after {
   .site-blocks-cover h1 {
     font-size: 3rem;
     font-family: "Arbutus Slab", serif; }
-  .site-blocks-cover .img-face {
+    .site-blocks-cover .img-face {
     position: absolute;
+    height:85%;
     width:40%;
-    top:10%;
+    top:15%;
     right: 8%;
     bottom: 0;
     z-index: 1;
